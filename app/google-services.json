@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "898886705932",
+    "firebase_url": "https://drivewise-connect-default-rtdb.firebaseio.com",
+    "project_id": "drivewise-connect",
+    "storage_bucket": "drivewise-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898886705932:android:4429953c3bf722a6075f29",
+        "android_client_info": {
+          "package_name": "com.example.drivewiseconnect2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PsbFLS-Uj-j3sM_tKMQwg637nXWnBxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
